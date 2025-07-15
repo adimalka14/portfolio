@@ -1,9 +1,9 @@
-'use client'
+'use client';
 
 export default function ContactSection() {
     return (
-        <section id='contact' className="py-12 text-center">
-            <h2 className="text-2xl font-semibold mb-4">Let's Connect</h2>
+        <section id="contact" className="py-12 text-center">
+            <h2 className="text-2xl font-semibold mb-4">Let&#39;s Connect</h2>
             <p className="text-muted-foreground mb-6">
                 Feel free to reach out by email:
             </p>
@@ -14,5 +14,5 @@ export default function ContactSection() {
                 adimalka14@gmail.com
             </a>
         </section>
-    )
+    );
 }
